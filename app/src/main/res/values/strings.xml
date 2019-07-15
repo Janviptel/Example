@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Example_app</string>
+    <string name="edit_text">Enter A Message</string>
+    <string name="butten_text">Send Message</string>
+    <string name="second_activty">Welcome To Second Activity</string>
+    <string name="final_activity">Welcome to final activity</string>
+    <string name="final_button">Go to final</string>
+</resources>
